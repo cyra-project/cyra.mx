@@ -38,3 +38,12 @@ El sitio está desarrollado utilizando:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/cyra-project/cyra-landing-page.git
+
+2. Abre el archivo index.html en tu navegador o utiliza un servidor local para visualizar la página.
+
+## Contribuciones
+Si deseas contribuir a este proyecto, por favor:
+
+Crea un fork del repositorio.
+Haz tus cambios en una rama separada.
+Envía un pull request con una descripción detallada.
